@@ -1,0 +1,11008 @@
+[
+  {
+    "raw_words": "The food is very average ... the Thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .",
+    "words": [
+      "The",
+      "food",
+      "is",
+      "very",
+      "average",
+      "...",
+      "the",
+      "Thai",
+      "fusion",
+      "stuff",
+      "is",
+      "a",
+      "bit",
+      "too",
+      "sweet",
+      ",",
+      "every",
+      "thing",
+      "they",
+      "serve",
+      "is",
+      "too",
+      "sweet",
+      "here",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "food"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 10,
+        "polarity": "NEG",
+        "term": [
+          "Thai",
+          "fusion",
+          "stuff"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "average"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 13,
+        "to": 15,
+        "term": [
+          "too",
+          "sweet"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "We went around 9:30 on a Friday and it had died down a bit by then so the service was great !",
+    "words": [
+      "We",
+      "went",
+      "around",
+      "9:30",
+      "on",
+      "a",
+      "Friday",
+      "and",
+      "it",
+      "had",
+      "died",
+      "down",
+      "a",
+      "bit",
+      "by",
+      "then",
+      "so",
+      "the",
+      "service",
+      "was",
+      "great",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 18,
+        "to": 19,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 20,
+        "to": 21,
+        "term": [
+          "great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "we love th pink pony .",
+    "words": [
+      "we",
+      "love",
+      "th",
+      "pink",
+      "pony",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 5,
+        "polarity": "POS",
+        "term": [
+          "pink",
+          "pony"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "term": [
+          "love"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "the food is decent .",
+    "words": [
+      "the",
+      "food",
+      "is",
+      "decent",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEU",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "decent"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "however , it 's the service that leaves a bad taste in my mouth .",
+    "words": [
+      "however",
+      ",",
+      "it",
+      "'s",
+      "the",
+      "service",
+      "that",
+      "leaves",
+      "a",
+      "bad",
+      "taste",
+      "in",
+      "my",
+      "mouth",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "polarity": "NEG",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 9,
+        "to": 11,
+        "term": [
+          "bad",
+          "taste"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "i happen to have a policy that goes along with a little bit of self-respect , which includes not letting a waiter intimidate me , i.e . make me feel bad asking for trivialities like water , or the check .",
+    "words": [
+      "i",
+      "happen",
+      "to",
+      "have",
+      "a",
+      "policy",
+      "that",
+      "goes",
+      "along",
+      "with",
+      "a",
+      "little",
+      "bit",
+      "of",
+      "self-respect",
+      ",",
+      "which",
+      "includes",
+      "not",
+      "letting",
+      "a",
+      "waiter",
+      "intimidate",
+      "me",
+      ",",
+      "i.e",
+      ".",
+      "make",
+      "me",
+      "feel",
+      "bad",
+      "asking",
+      "for",
+      "trivialities",
+      "like",
+      "water",
+      ",",
+      "or",
+      "the",
+      "check",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 21,
+        "to": 22,
+        "polarity": "NEG",
+        "term": [
+          "waiter"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 30,
+        "to": 31,
+        "term": [
+          "bad"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose .",
+    "words": [
+      "I",
+      "tend",
+      "to",
+      "judge",
+      "a",
+      "sushi",
+      "restaurant",
+      "by",
+      "its",
+      "sea",
+      "urchin",
+      ",",
+      "which",
+      "was",
+      "heavenly",
+      "at",
+      "sushi",
+      "rose",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 9,
+        "to": 11,
+        "polarity": "POS",
+        "term": [
+          "sea",
+          "urchin"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 14,
+        "to": 15,
+        "term": [
+          "heavenly"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The sushi seemed pretty fresh and was adequately proportioned .",
+    "words": [
+      "The",
+      "sushi",
+      "seemed",
+      "pretty",
+      "fresh",
+      "and",
+      "was",
+      "adequately",
+      "proportioned",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "sushi"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "sushi"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "fresh"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 8,
+        "to": 9,
+        "term": [
+          "proportioned"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "In the evening , this place attracted a well dressed , with it , NY crowd .",
+    "words": [
+      "In",
+      "the",
+      "evening",
+      ",",
+      "this",
+      "place",
+      "attracted",
+      "a",
+      "well",
+      "dressed",
+      ",",
+      "with",
+      "it",
+      ",",
+      "NY",
+      "crowd",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 15,
+        "to": 16,
+        "polarity": "POS",
+        "term": [
+          "crowd"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "attracted"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The food was well prepared and the service impecable .",
+    "words": [
+      "The",
+      "food",
+      "was",
+      "well",
+      "prepared",
+      "and",
+      "the",
+      "service",
+      "impecable",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 5,
+        "term": [
+          "well",
+          "prepared"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 8,
+        "to": 9,
+        "term": [
+          "impecable"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The Prix Fixe menu is worth every penny and you get more than enough ( both in quantity AND quality ) .",
+    "words": [
+      "The",
+      "Prix",
+      "Fixe",
+      "menu",
+      "is",
+      "worth",
+      "every",
+      "penny",
+      "and",
+      "you",
+      "get",
+      "more",
+      "than",
+      "enough",
+      "(",
+      "both",
+      "in",
+      "quantity",
+      "AND",
+      "quality",
+      ")",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 4,
+        "polarity": "POS",
+        "term": [
+          "Prix",
+          "Fixe",
+          "menu"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "worth"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The kitchen however , is almost always slow .",
+    "words": [
+      "The",
+      "kitchen",
+      "however",
+      ",",
+      "is",
+      "almost",
+      "always",
+      "slow",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "kitchen"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 8,
+        "term": [
+          "slow"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening .",
+    "words": [
+      "Add",
+      "to",
+      "that",
+      "great",
+      "service",
+      "and",
+      "great",
+      "food",
+      "at",
+      "a",
+      "reasonable",
+      "price",
+      "and",
+      "you",
+      "have",
+      "yourself",
+      "the",
+      "beginning",
+      "of",
+      "a",
+      "great",
+      "evening",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "great"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The pizza was delivered cold and the cheese was n't even fully melted !",
+    "words": [
+      "The",
+      "pizza",
+      "was",
+      "delivered",
+      "cold",
+      "and",
+      "the",
+      "cheese",
+      "was",
+      "n't",
+      "even",
+      "fully",
+      "melted",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "pizza"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 8,
+        "polarity": "NEG",
+        "term": [
+          "cheese"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "cold"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 8,
+        "to": 13,
+        "term": [
+          "was",
+          "n't",
+          "even",
+          "fully",
+          "melted"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Yes , they use fancy ingredients , but even fancy ingredients do n't make for good pizza unless someone knows how to get the crust right .",
+    "words": [
+      "Yes",
+      ",",
+      "they",
+      "use",
+      "fancy",
+      "ingredients",
+      ",",
+      "but",
+      "even",
+      "fancy",
+      "ingredients",
+      "do",
+      "n't",
+      "make",
+      "for",
+      "good",
+      "pizza",
+      "unless",
+      "someone",
+      "knows",
+      "how",
+      "to",
+      "get",
+      "the",
+      "crust",
+      "right",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "ingredients"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 16,
+        "to": 17,
+        "polarity": "NEG",
+        "term": [
+          "pizza"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "fancy"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 15,
+        "to": 16,
+        "term": [
+          "good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Best Pastrami I ever had and great portion without being ridiculous .",
+    "words": [
+      "Best",
+      "Pastrami",
+      "I",
+      "ever",
+      "had",
+      "and",
+      "great",
+      "portion",
+      "without",
+      "being",
+      "ridiculous",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "Pastrami"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "portion"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Best"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "My wife had the fried shrimp which are huge and loved it .",
+    "words": [
+      "My",
+      "wife",
+      "had",
+      "the",
+      "fried",
+      "shrimp",
+      "which",
+      "are",
+      "huge",
+      "and",
+      "loved",
+      "it",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "fried",
+          "shrimp"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 4,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "fried",
+          "shrimp"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 9,
+        "term": [
+          "huge"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 10,
+        "to": 11,
+        "term": [
+          "loved"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "This place is the most Japanese it can ever get .",
+    "words": [
+      "This",
+      "place",
+      "is",
+      "the",
+      "most",
+      "Japanese",
+      "it",
+      "can",
+      "ever",
+      "get",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "place"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "Japanese"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",
+    "words": [
+      "Leon",
+      "is",
+      "an",
+      "East",
+      "Village",
+      "gem",
+      ":",
+      "casual",
+      "but",
+      "hip",
+      ",",
+      "with",
+      "well",
+      "prepared",
+      "basic",
+      "French",
+      "bistro",
+      "fare",
+      ",",
+      "good",
+      "specials",
+      ",",
+      "a",
+      "warm",
+      "and",
+      "lively",
+      "atmosphere",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Leon"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Leon"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 15,
+        "to": 18,
+        "polarity": "POS",
+        "term": [
+          "French",
+          "bistro",
+          "fare"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 20,
+        "to": 21,
+        "polarity": "POS",
+        "term": [
+          "specials"
+        ]
+      },
+      {
+        "index": 4,
+        "from": 26,
+        "to": 27,
+        "polarity": "POS",
+        "term": [
+          "atmosphere"
+        ]
+      },
+      {
+        "index": 5,
+        "from": 26,
+        "to": 27,
+        "polarity": "POS",
+        "term": [
+          "atmosphere"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 8,
+        "term": [
+          "casual"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 9,
+        "to": 10,
+        "term": [
+          "hip"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 12,
+        "to": 14,
+        "term": [
+          "well",
+          "prepared"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 19,
+        "to": 20,
+        "term": [
+          "good"
+        ]
+      },
+      {
+        "index": 4,
+        "from": 23,
+        "to": 24,
+        "term": [
+          "warm"
+        ]
+      },
+      {
+        "index": 5,
+        "from": 25,
+        "to": 26,
+        "term": [
+          "lively"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The food was bland oily .",
+    "words": [
+      "The",
+      "food",
+      "was",
+      "bland",
+      "oily",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 5,
+        "term": [
+          "bland",
+          "oily"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I went there for lunch and it was not as good as I expected from the reviews I read .",
+    "words": [
+      "I",
+      "went",
+      "there",
+      "for",
+      "lunch",
+      "and",
+      "it",
+      "was",
+      "not",
+      "as",
+      "good",
+      "as",
+      "I",
+      "expected",
+      "from",
+      "the",
+      "reviews",
+      "I",
+      "read",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "polarity": "NEG",
+        "term": [
+          "lunch"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 14,
+        "term": [
+          "not",
+          "as",
+          "good",
+          "as",
+          "I",
+          "expected"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "This place is great .",
+    "words": [
+      "This",
+      "place",
+      "is",
+      "great",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "place"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Great pizza and fantastic service .",
+    "words": [
+      "Great",
+      "pizza",
+      "and",
+      "fantastic",
+      "service",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "pizza"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 4,
+        "to": 5,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Great"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "fantastic"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The place is small and cramped but the food is fantastic .",
+    "words": [
+      "The",
+      "place",
+      "is",
+      "small",
+      "and",
+      "cramped",
+      "but",
+      "the",
+      "food",
+      "is",
+      "fantastic",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "place"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "place"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 8,
+        "to": 9,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "small"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "cramped"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 10,
+        "to": 11,
+        "term": [
+          "fantastic"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Moules were excellent , lobster ravioli was VERY salty !",
+    "words": [
+      "Moules",
+      "were",
+      "excellent",
+      ",",
+      "lobster",
+      "ravioli",
+      "was",
+      "VERY",
+      "salty",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Moules"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 4,
+        "to": 6,
+        "polarity": "NEG",
+        "term": [
+          "lobster",
+          "ravioli"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "excellent"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 8,
+        "to": 9,
+        "term": [
+          "salty"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The exotic food is beautifully presented and is a delight in delicious combinations .",
+    "words": [
+      "The",
+      "exotic",
+      "food",
+      "is",
+      "beautifully",
+      "presented",
+      "and",
+      "is",
+      "a",
+      "delight",
+      "in",
+      "delicious",
+      "combinations",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "exotic",
+          "food"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "exotic",
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 6,
+        "term": [
+          "beautifully",
+          "presented"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 9,
+        "to": 10,
+        "term": [
+          "delight"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The staff is incredibly helpful and attentive .",
+    "words": [
+      "The",
+      "staff",
+      "is",
+      "incredibly",
+      "helpful",
+      "and",
+      "attentive",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "staff"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "staff"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "helpful"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "attentive"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I had a great time at Jekyll and Hyde !",
+    "words": [
+      "I",
+      "had",
+      "a",
+      "great",
+      "time",
+      "at",
+      "Jekyll",
+      "and",
+      "Hyde",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 6,
+        "to": 9,
+        "polarity": "POS",
+        "term": [
+          "Jekyll",
+          "and",
+          "Hyde"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 5,
+        "term": [
+          "great",
+          "time"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Our server was very helpful and friendly .",
+    "words": [
+      "Our",
+      "server",
+      "was",
+      "very",
+      "helpful",
+      "and",
+      "friendly",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "server"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "server"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "helpful"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "friendly"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The food was good too .",
+    "words": [
+      "The",
+      "food",
+      "was",
+      "good",
+      "too",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Service was prompt and courteous .",
+    "words": [
+      "Service",
+      "was",
+      "prompt",
+      "and",
+      "courteous",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Service"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "prompt"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "courteous"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Great service , great food .",
+    "words": [
+      "Great",
+      "service",
+      ",",
+      "great",
+      "food",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 4,
+        "to": 5,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Great"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Wait staff is blantently unappreciative of your business but its the best pie on the UWS !",
+    "words": [
+      "Wait",
+      "staff",
+      "is",
+      "blantently",
+      "unappreciative",
+      "of",
+      "your",
+      "business",
+      "but",
+      "its",
+      "the",
+      "best",
+      "pie",
+      "on",
+      "the",
+      "UWS",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "Wait",
+          "staff"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 12,
+        "to": 13,
+        "polarity": "POS",
+        "term": [
+          "pie"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "unappreciative"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 11,
+        "to": 12,
+        "term": [
+          "best"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "By far the best salad I have had in a fast food restaurant .",
+    "words": [
+      "By",
+      "far",
+      "the",
+      "best",
+      "salad",
+      "I",
+      "have",
+      "had",
+      "in",
+      "a",
+      "fast",
+      "food",
+      "restaurant",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "polarity": "POS",
+        "term": [
+          "salad"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "best"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Food was very good as well , considering that we tried the budget selection ( though I wish the pork belly that I ordered was roasted a bit longer , so that fat was more of a melt-in-your-mouth experience ) .",
+    "words": [
+      "Food",
+      "was",
+      "very",
+      "good",
+      "as",
+      "well",
+      ",",
+      "considering",
+      "that",
+      "we",
+      "tried",
+      "the",
+      "budget",
+      "selection",
+      "(",
+      "though",
+      "I",
+      "wish",
+      "the",
+      "pork",
+      "belly",
+      "that",
+      "I",
+      "ordered",
+      "was",
+      "roasted",
+      "a",
+      "bit",
+      "longer",
+      ",",
+      "so",
+      "that",
+      "fat",
+      "was",
+      "more",
+      "of",
+      "a",
+      "melt-in-your-mouth",
+      "experience",
+      ")",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The workers there also absolutely load the bagel with cream cheese ( gets a little messy ) .",
+    "words": [
+      "The",
+      "workers",
+      "there",
+      "also",
+      "absolutely",
+      "load",
+      "the",
+      "bagel",
+      "with",
+      "cream",
+      "cheese",
+      "(",
+      "gets",
+      "a",
+      "little",
+      "messy",
+      ")",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 8,
+        "polarity": "NEG",
+        "term": [
+          "bagel"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 15,
+        "to": 16,
+        "term": [
+          "messy"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I highly recommend Cafe St. Bart 's for their food , the ambience and wonderful service .",
+    "words": [
+      "I",
+      "highly",
+      "recommend",
+      "Cafe",
+      "St.",
+      "Bart",
+      "'s",
+      "for",
+      "their",
+      "food",
+      ",",
+      "the",
+      "ambience",
+      "and",
+      "wonderful",
+      "service",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 9,
+        "to": 10,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 15,
+        "to": 16,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "recommend"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 14,
+        "to": 15,
+        "term": [
+          "wonderful"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "All the staff is absolutely professional ! !",
+    "words": [
+      "All",
+      "the",
+      "staff",
+      "is",
+      "absolutely",
+      "professional",
+      "!",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "staff"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "professional"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The scallion pancakes and fried dumplings were nothing out of the ordinary .",
+    "words": [
+      "The",
+      "scallion",
+      "pancakes",
+      "and",
+      "fried",
+      "dumplings",
+      "were",
+      "nothing",
+      "out",
+      "of",
+      "the",
+      "ordinary",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 3,
+        "polarity": "NEU",
+        "term": [
+          "scallion",
+          "pancakes"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 11,
+        "to": 12,
+        "term": [
+          "ordinary"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The service was the only thing good about this restaurant .",
+    "words": [
+      "The",
+      "service",
+      "was",
+      "the",
+      "only",
+      "thing",
+      "good",
+      "about",
+      "this",
+      "restaurant",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "fresh restaurant was amazing ... ... .. food was delicious and of course fresh .",
+    "words": [
+      "fresh",
+      "restaurant",
+      "was",
+      "amazing",
+      "...",
+      "...",
+      "..",
+      "food",
+      "was",
+      "delicious",
+      "and",
+      "of",
+      "course",
+      "fresh",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "fresh",
+          "restaurant"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 0,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "fresh",
+          "restaurant"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 7,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 7,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "fresh"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "amazing"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 9,
+        "to": 10,
+        "term": [
+          "delicious"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 13,
+        "to": 14,
+        "term": [
+          "fresh"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Hats off to the chef .",
+    "words": [
+      "Hats",
+      "off",
+      "to",
+      "the",
+      "chef",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "polarity": "POS",
+        "term": [
+          "chef"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 2,
+        "term": [
+          "Hats",
+          "off"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "the salads are delicious , both refreshing and very spicy .",
+    "words": [
+      "the",
+      "salads",
+      "are",
+      "delicious",
+      ",",
+      "both",
+      "refreshing",
+      "and",
+      "very",
+      "spicy",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "salads"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "salads"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "salads"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "delicious"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "refreshing"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 9,
+        "to": 10,
+        "term": [
+          "spicy"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "They have it all -- great price , food , and service .",
+    "words": [
+      "They",
+      "have",
+      "it",
+      "all",
+      "--",
+      "great",
+      "price",
+      ",",
+      "food",
+      ",",
+      "and",
+      "service",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 9,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "And evaluated on those terms Pastis is simply wonderful .",
+    "words": [
+      "And",
+      "evaluated",
+      "on",
+      "those",
+      "terms",
+      "Pastis",
+      "is",
+      "simply",
+      "wonderful",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "Pastis"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 9,
+        "term": [
+          "wonderful"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .",
+    "words": [
+      "The",
+      "hanger",
+      "steak",
+      "was",
+      "like",
+      "rubber",
+      "and",
+      "the",
+      "tuna",
+      "was",
+      "flavorless",
+      "not",
+      "to",
+      "mention",
+      "it",
+      "tasted",
+      "like",
+      "it",
+      "had",
+      "just",
+      "been",
+      "thawed",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 3,
+        "polarity": "NEG",
+        "term": [
+          "hanger",
+          "steak"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 8,
+        "to": 9,
+        "polarity": "NEG",
+        "term": [
+          "tuna"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "rubber"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 10,
+        "to": 11,
+        "term": [
+          "flavorless"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The filet mignon dish was superb !",
+    "words": [
+      "The",
+      "filet",
+      "mignon",
+      "dish",
+      "was",
+      "superb",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 4,
+        "polarity": "POS",
+        "term": [
+          "filet",
+          "mignon",
+          "dish"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "superb"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "THe Pizza and wine were excellent -- the service too -- but what really MADE this place was the backyard dining area .",
+    "words": [
+      "THe",
+      "Pizza",
+      "and",
+      "wine",
+      "were",
+      "excellent",
+      "--",
+      "the",
+      "service",
+      "too",
+      "--",
+      "but",
+      "what",
+      "really",
+      "MADE",
+      "this",
+      "place",
+      "was",
+      "the",
+      "backyard",
+      "dining",
+      "area",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "Pizza"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "excellent"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "First of all , this place is *not* romantic , as claimed by Citysearch 's editorial review .",
+    "words": [
+      "First",
+      "of",
+      "all",
+      ",",
+      "this",
+      "place",
+      "is",
+      "*not*",
+      "romantic",
+      ",",
+      "as",
+      "claimed",
+      "by",
+      "Citysearch",
+      "'s",
+      "editorial",
+      "review",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "polarity": "NEG",
+        "term": [
+          "place"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 9,
+        "term": [
+          "*not*",
+          "romantic"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .",
+    "words": [
+      "The",
+      "tables",
+      "are",
+      "crammed",
+      "way",
+      "too",
+      "close",
+      ",",
+      "the",
+      "menu",
+      "is",
+      "typical",
+      "of",
+      "any",
+      "Italian",
+      "restaurant",
+      ",",
+      "and",
+      "the",
+      "wine",
+      "list",
+      "is",
+      "simply",
+      "overpriced",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "tables"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "tables"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 9,
+        "to": 10,
+        "polarity": "NEU",
+        "term": [
+          "menu"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 19,
+        "to": 21,
+        "polarity": "NEG",
+        "term": [
+          "wine",
+          "list"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "crammed"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 5,
+        "to": 7,
+        "term": [
+          "too",
+          "close"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 11,
+        "to": 12,
+        "term": [
+          "typical"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 23,
+        "to": 24,
+        "term": [
+          "overpriced"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Myagi is one of my favorite restaurants in the City ; the place the negative reviews describe sound like they were somewhere else .",
+    "words": [
+      "Myagi",
+      "is",
+      "one",
+      "of",
+      "my",
+      "favorite",
+      "restaurants",
+      "in",
+      "the",
+      "City",
+      ";",
+      "the",
+      "place",
+      "the",
+      "negative",
+      "reviews",
+      "describe",
+      "sound",
+      "like",
+      "they",
+      "were",
+      "somewhere",
+      "else",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Myagi"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "favorite"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I 've never had bad service and the fish is fresh and delicious .",
+    "words": [
+      "I",
+      "'ve",
+      "never",
+      "had",
+      "bad",
+      "service",
+      "and",
+      "the",
+      "fish",
+      "is",
+      "fresh",
+      "and",
+      "delicious",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 8,
+        "to": 9,
+        "polarity": "POS",
+        "term": [
+          "fish"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 8,
+        "to": 9,
+        "polarity": "POS",
+        "term": [
+          "fish"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 5,
+        "term": [
+          "never",
+          "had",
+          "bad"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 10,
+        "to": 11,
+        "term": [
+          "fresh"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 12,
+        "to": 13,
+        "term": [
+          "delicious"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I highly recommend to anyone to give this place a try .",
+    "words": [
+      "I",
+      "highly",
+      "recommend",
+      "to",
+      "anyone",
+      "to",
+      "give",
+      "this",
+      "place",
+      "a",
+      "try",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 9,
+        "polarity": "POS",
+        "term": [
+          "place"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "recommend"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu , present your meal , and attend to your needs .",
+    "words": [
+      "The",
+      "service",
+      "was",
+      "impeccable",
+      "and",
+      "unobtrusive",
+      "--",
+      "the",
+      "staff",
+      "knows",
+      "what",
+      "they",
+      "are",
+      "there",
+      "to",
+      "do",
+      "--",
+      "to",
+      "know",
+      "their",
+      "menu",
+      ",",
+      "present",
+      "your",
+      "meal",
+      ",",
+      "and",
+      "attend",
+      "to",
+      "your",
+      "needs",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "impeccable"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "unobtrusive"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Go to Volare for 1st class service and terrific food .",
+    "words": [
+      "Go",
+      "to",
+      "Volare",
+      "for",
+      "1st",
+      "class",
+      "service",
+      "and",
+      "terrific",
+      "food",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 6,
+        "to": 7,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 9,
+        "to": 10,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 6,
+        "term": [
+          "1st",
+          "class"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 8,
+        "to": 9,
+        "term": [
+          "terrific"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Drinks way over priced .",
+    "words": [
+      "Drinks",
+      "way",
+      "over",
+      "priced",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "NEG",
+        "term": [
+          "Drinks"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 4,
+        "term": [
+          "over",
+          "priced"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Whenever you need a Sushi fix , Mizu will be there with quality fish and great service .",
+    "words": [
+      "Whenever",
+      "you",
+      "need",
+      "a",
+      "Sushi",
+      "fix",
+      ",",
+      "Mizu",
+      "will",
+      "be",
+      "there",
+      "with",
+      "quality",
+      "fish",
+      "and",
+      "great",
+      "service",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 13,
+        "to": 14,
+        "polarity": "POS",
+        "term": [
+          "fish"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 16,
+        "to": 17,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 12,
+        "to": 13,
+        "term": [
+          "quality"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 15,
+        "to": 16,
+        "term": [
+          "great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I thought this place was totally overrated .",
+    "words": [
+      "I",
+      "thought",
+      "this",
+      "place",
+      "was",
+      "totally",
+      "overrated",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "polarity": "NEG",
+        "term": [
+          "place"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "overrated"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The food is delicious - from the specials to the regular menu-fare , the dishes are never a disappointment .",
+    "words": [
+      "The",
+      "food",
+      "is",
+      "delicious",
+      "-",
+      "from",
+      "the",
+      "specials",
+      "to",
+      "the",
+      "regular",
+      "menu-fare",
+      ",",
+      "the",
+      "dishes",
+      "are",
+      "never",
+      "a",
+      "disappointment",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 14,
+        "to": 15,
+        "polarity": "POS",
+        "term": [
+          "dishes"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "delicious"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 16,
+        "to": 19,
+        "term": [
+          "never",
+          "a",
+          "disappointment"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "If you go , try the marinara/arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm ... .. everything is just delicious .",
+    "words": [
+      "If",
+      "you",
+      "go",
+      ",",
+      "try",
+      "the",
+      "marinara/arrabiatta",
+      "sauce",
+      ",",
+      "the",
+      "mozzarella",
+      "en",
+      "Carozza",
+      "is",
+      "mmmmmmmm",
+      "...",
+      "..",
+      "everything",
+      "is",
+      "just",
+      "delicious",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 6,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "marinara/arrabiatta",
+          "sauce"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 6,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "marinara/arrabiatta",
+          "sauce"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "try"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 20,
+        "to": 21,
+        "term": [
+          "delicious"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The hostess and the waitress were incredibly rude and did everything they could to rush us out .",
+    "words": [
+      "The",
+      "hostess",
+      "and",
+      "the",
+      "waitress",
+      "were",
+      "incredibly",
+      "rude",
+      "and",
+      "did",
+      "everything",
+      "they",
+      "could",
+      "to",
+      "rush",
+      "us",
+      "out",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "hostess"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 8,
+        "term": [
+          "rude"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Do n't dine at Tamarind for the vegetarian dishes , they are simply not up to par with the non-veg selections .",
+    "words": [
+      "Do",
+      "n't",
+      "dine",
+      "at",
+      "Tamarind",
+      "for",
+      "the",
+      "vegetarian",
+      "dishes",
+      ",",
+      "they",
+      "are",
+      "simply",
+      "not",
+      "up",
+      "to",
+      "par",
+      "with",
+      "the",
+      "non-veg",
+      "selections",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 9,
+        "polarity": "NEG",
+        "term": [
+          "vegetarian",
+          "dishes"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 13,
+        "to": 17,
+        "term": [
+          "not",
+          "up",
+          "to",
+          "par"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Haru on Park S is simply disgusting .",
+    "words": [
+      "Haru",
+      "on",
+      "Park",
+      "S",
+      "is",
+      "simply",
+      "disgusting",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 4,
+        "polarity": "NEG",
+        "term": [
+          "Haru",
+          "on",
+          "Park",
+          "S"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "disgusting"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "honestly the worst sushi my husband and i had in our entire lives .",
+    "words": [
+      "honestly",
+      "the",
+      "worst",
+      "sushi",
+      "my",
+      "husband",
+      "and",
+      "i",
+      "had",
+      "in",
+      "our",
+      "entire",
+      "lives",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "polarity": "NEG",
+        "term": [
+          "sushi"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "worst"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The service was attentive .",
+    "words": [
+      "The",
+      "service",
+      "was",
+      "attentive",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "attentive"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The food is tasty and portion sizes are appropriate .",
+    "words": [
+      "The",
+      "food",
+      "is",
+      "tasty",
+      "and",
+      "portion",
+      "sizes",
+      "are",
+      "appropriate",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 5,
+        "to": 7,
+        "polarity": "POS",
+        "term": [
+          "portion",
+          "sizes"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "tasty"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 8,
+        "to": 9,
+        "term": [
+          "appropriate"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates .",
+    "words": [
+      "This",
+      "is",
+      "a",
+      "nice",
+      "restaurant",
+      "if",
+      "you",
+      "are",
+      "looking",
+      "for",
+      "a",
+      "good",
+      "place",
+      "to",
+      "host",
+      "an",
+      "intimate",
+      "dinner",
+      "meeting",
+      "with",
+      "business",
+      "associates",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "polarity": "POS",
+        "term": [
+          "restaurant"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "nice"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "LOVE THIS PLACE .",
+    "words": [
+      "LOVE",
+      "THIS",
+      "PLACE",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "PLACE"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "LOVE"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The menu is limited but almost all of the dishes are excellent .",
+    "words": [
+      "The",
+      "menu",
+      "is",
+      "limited",
+      "but",
+      "almost",
+      "all",
+      "of",
+      "the",
+      "dishes",
+      "are",
+      "excellent",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "menu"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 9,
+        "to": 10,
+        "polarity": "POS",
+        "term": [
+          "dishes"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "limited"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 11,
+        "to": 12,
+        "term": [
+          "excellent"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great .",
+    "words": [
+      "The",
+      "lobster",
+      "sandwich",
+      "is",
+      "good",
+      "and",
+      "the",
+      "spaghetti",
+      "with",
+      "Scallops",
+      "and",
+      "Shrimp",
+      "is",
+      "great",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "lobster",
+          "sandwich"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 12,
+        "polarity": "POS",
+        "term": [
+          "spaghetti",
+          "with",
+          "Scallops",
+          "and",
+          "Shrimp"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "good"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 13,
+        "to": 14,
+        "term": [
+          "great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The only fallback on this restaurant is the prices .",
+    "words": [
+      "The",
+      "only",
+      "fallback",
+      "on",
+      "this",
+      "restaurant",
+      "is",
+      "the",
+      "prices",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "polarity": "NEG",
+        "term": [
+          "restaurant"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "fallback"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I loved this place ! !",
+    "words": [
+      "I",
+      "loved",
+      "this",
+      "place",
+      "!",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "polarity": "POS",
+        "term": [
+          "place"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "term": [
+          "loved"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The service was terrible , we had to wait for everything and ask several of different people for the same thing before we were allowed to be served .",
+    "words": [
+      "The",
+      "service",
+      "was",
+      "terrible",
+      ",",
+      "we",
+      "had",
+      "to",
+      "wait",
+      "for",
+      "everything",
+      "and",
+      "ask",
+      "several",
+      "of",
+      "different",
+      "people",
+      "for",
+      "the",
+      "same",
+      "thing",
+      "before",
+      "we",
+      "were",
+      "allowed",
+      "to",
+      "be",
+      "served",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "terrible"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I would definitely recommend SEA if you like thai cuisine !",
+    "words": [
+      "I",
+      "would",
+      "definitely",
+      "recommend",
+      "SEA",
+      "if",
+      "you",
+      "like",
+      "thai",
+      "cuisine",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 10,
+        "polarity": "POS",
+        "term": [
+          "thai",
+          "cuisine"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 8,
+        "term": [
+          "like"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I would highly recommend this place !",
+    "words": [
+      "I",
+      "would",
+      "highly",
+      "recommend",
+      "this",
+      "place",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "place"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "recommend"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The food is great and reasonably priced .",
+    "words": [
+      "The",
+      "food",
+      "is",
+      "great",
+      "and",
+      "reasonably",
+      "priced",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "great"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 5,
+        "to": 7,
+        "term": [
+          "reasonably",
+          "priced"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Considering we were the last patrons there and it was after the closing time , the waitstaff did not rush us at all and made us feel comfortable and relaxed .",
+    "words": [
+      "Considering",
+      "we",
+      "were",
+      "the",
+      "last",
+      "patrons",
+      "there",
+      "and",
+      "it",
+      "was",
+      "after",
+      "the",
+      "closing",
+      "time",
+      ",",
+      "the",
+      "waitstaff",
+      "did",
+      "not",
+      "rush",
+      "us",
+      "at",
+      "all",
+      "and",
+      "made",
+      "us",
+      "feel",
+      "comfortable",
+      "and",
+      "relaxed",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 16,
+        "to": 17,
+        "polarity": "POS",
+        "term": [
+          "waitstaff"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 16,
+        "to": 17,
+        "polarity": "POS",
+        "term": [
+          "waitstaff"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 27,
+        "to": 28,
+        "term": [
+          "comfortable"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 29,
+        "to": 30,
+        "term": [
+          "relaxed"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "We ate out in the back patio , which is worth it as it 's cool and the music is hear well there .",
+    "words": [
+      "We",
+      "ate",
+      "out",
+      "in",
+      "the",
+      "back",
+      "patio",
+      ",",
+      "which",
+      "is",
+      "worth",
+      "it",
+      "as",
+      "it",
+      "'s",
+      "cool",
+      "and",
+      "the",
+      "music",
+      "is",
+      "hear",
+      "well",
+      "there",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 7,
+        "polarity": "POS",
+        "term": [
+          "back",
+          "patio"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 5,
+        "to": 7,
+        "polarity": "POS",
+        "term": [
+          "back",
+          "patio"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 18,
+        "to": 19,
+        "polarity": "POS",
+        "term": [
+          "music"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 10,
+        "to": 11,
+        "term": [
+          "worth"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 15,
+        "to": 16,
+        "term": [
+          "cool"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 21,
+        "to": 22,
+        "term": [
+          "well"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "but the service was a bit slow .",
+    "words": [
+      "but",
+      "the",
+      "service",
+      "was",
+      "a",
+      "bit",
+      "slow",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "polarity": "NEG",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "slow"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I would recommend Roxy 's for that , but not for their food .",
+    "words": [
+      "I",
+      "would",
+      "recommend",
+      "Roxy",
+      "'s",
+      "for",
+      "that",
+      ",",
+      "but",
+      "not",
+      "for",
+      "their",
+      "food",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 12,
+        "to": 13,
+        "polarity": "NEG",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "recommend"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "We went here for lunch a couple of weeks ago on a Saturday , and I was thoroughly impressed with the food .",
+    "words": [
+      "We",
+      "went",
+      "here",
+      "for",
+      "lunch",
+      "a",
+      "couple",
+      "of",
+      "weeks",
+      "ago",
+      "on",
+      "a",
+      "Saturday",
+      ",",
+      "and",
+      "I",
+      "was",
+      "thoroughly",
+      "impressed",
+      "with",
+      "the",
+      "food",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 21,
+        "to": 22,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 18,
+        "to": 19,
+        "term": [
+          "impressed"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The pesto pizza was excellent , thin-crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .",
+    "words": [
+      "The",
+      "pesto",
+      "pizza",
+      "was",
+      "excellent",
+      ",",
+      "thin-crust",
+      "pizza",
+      "with",
+      "a",
+      "nice",
+      "amount",
+      "of",
+      "spicy",
+      "Italian",
+      "cheese",
+      "that",
+      "I",
+      "'d",
+      "never",
+      "heard",
+      "of",
+      "before",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "pesto",
+          "pizza"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 13,
+        "to": 16,
+        "polarity": "POS",
+        "term": [
+          "spicy",
+          "Italian",
+          "cheese"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "excellent"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 10,
+        "to": 11,
+        "term": [
+          "nice"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "it 's the only place you can get yummy authentic japanese comfort food .",
+    "words": [
+      "it",
+      "'s",
+      "the",
+      "only",
+      "place",
+      "you",
+      "can",
+      "get",
+      "yummy",
+      "authentic",
+      "japanese",
+      "comfort",
+      "food",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 10,
+        "to": 13,
+        "polarity": "POS",
+        "term": [
+          "japanese",
+          "comfort",
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 10,
+        "term": [
+          "yummy",
+          "authentic"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I am reluctant to write because I would not want my jem of a pizza place to become overcrowded .",
+    "words": [
+      "I",
+      "am",
+      "reluctant",
+      "to",
+      "write",
+      "because",
+      "I",
+      "would",
+      "not",
+      "want",
+      "my",
+      "jem",
+      "of",
+      "a",
+      "pizza",
+      "place",
+      "to",
+      "become",
+      "overcrowded",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 14,
+        "to": 16,
+        "polarity": "POS",
+        "term": [
+          "pizza",
+          "place"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 18,
+        "to": 19,
+        "term": [
+          "overcrowded"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "By far , the best pizza in Manhattan .",
+    "words": [
+      "By",
+      "far",
+      ",",
+      "the",
+      "best",
+      "pizza",
+      "in",
+      "Manhattan",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "pizza"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "best"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I highly recommend the Sophia pizza .",
+    "words": [
+      "I",
+      "highly",
+      "recommend",
+      "the",
+      "Sophia",
+      "pizza",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "Sophia",
+          "pizza"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "recommend"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I expected quite a bit more from such an expensive menu .",
+    "words": [
+      "I",
+      "expected",
+      "quite",
+      "a",
+      "bit",
+      "more",
+      "from",
+      "such",
+      "an",
+      "expensive",
+      "menu",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 10,
+        "to": 11,
+        "polarity": "NEG",
+        "term": [
+          "menu"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 9,
+        "to": 10,
+        "term": [
+          "expensive"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "delicious simple food in nice outdoor atmosphere .",
+    "words": [
+      "delicious",
+      "simple",
+      "food",
+      "in",
+      "nice",
+      "outdoor",
+      "atmosphere",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 5,
+        "to": 7,
+        "polarity": "POS",
+        "term": [
+          "outdoor",
+          "atmosphere"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 2,
+        "term": [
+          "delicious",
+          "simple"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "nice"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Delicious crab cakes too .",
+    "words": [
+      "Delicious",
+      "crab",
+      "cakes",
+      "too",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "crab",
+          "cakes"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Delicious"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Even if the food was n't this good , the garden is a great place to sit outside and relax .",
+    "words": [
+      "Even",
+      "if",
+      "the",
+      "food",
+      "was",
+      "n't",
+      "this",
+      "good",
+      ",",
+      "the",
+      "garden",
+      "is",
+      "a",
+      "great",
+      "place",
+      "to",
+      "sit",
+      "outside",
+      "and",
+      "relax",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 10,
+        "to": 11,
+        "polarity": "POS",
+        "term": [
+          "garden"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 8,
+        "term": [
+          "was",
+          "n't",
+          "this",
+          "good"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 13,
+        "to": 14,
+        "term": [
+          "great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "This is a nice pizza place with good selection of thin crust pizza including the Basil slice .",
+    "words": [
+      "This",
+      "is",
+      "a",
+      "nice",
+      "pizza",
+      "place",
+      "with",
+      "good",
+      "selection",
+      "of",
+      "thin",
+      "crust",
+      "pizza",
+      "including",
+      "the",
+      "Basil",
+      "slice",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "pizza",
+          "place"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 8,
+        "to": 13,
+        "polarity": "POS",
+        "term": [
+          "selection",
+          "of",
+          "thin",
+          "crust",
+          "pizza"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "nice"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 8,
+        "term": [
+          "good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The counter service is bad .",
+    "words": [
+      "The",
+      "counter",
+      "service",
+      "is",
+      "bad",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 3,
+        "polarity": "NEG",
+        "term": [
+          "counter",
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "bad"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The dosas are skimpy , unattractive and drip with grease , and personally I 'd drink popcorn topping before I 'd eat another one of these .",
+    "words": [
+      "The",
+      "dosas",
+      "are",
+      "skimpy",
+      ",",
+      "unattractive",
+      "and",
+      "drip",
+      "with",
+      "grease",
+      ",",
+      "and",
+      "personally",
+      "I",
+      "'d",
+      "drink",
+      "popcorn",
+      "topping",
+      "before",
+      "I",
+      "'d",
+      "eat",
+      "another",
+      "one",
+      "of",
+      "these",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "dosas"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "dosas"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "skimpy"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "unattractive"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Unique apppetizers .",
+    "words": [
+      "Unique",
+      "apppetizers",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "apppetizers"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Unique"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Good spreads , great beverage selections and bagels really tasty .",
+    "words": [
+      "Good",
+      "spreads",
+      ",",
+      "great",
+      "beverage",
+      "selections",
+      "and",
+      "bagels",
+      "really",
+      "tasty",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "spreads"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 4,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "beverage",
+          "selections"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 7,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "bagels"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Good"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "great"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 9,
+        "to": 10,
+        "term": [
+          "tasty"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I will be out with friends and all of a sudden I am hungry and I only crave one thing ... their Pizza .",
+    "words": [
+      "I",
+      "will",
+      "be",
+      "out",
+      "with",
+      "friends",
+      "and",
+      "all",
+      "of",
+      "a",
+      "sudden",
+      "I",
+      "am",
+      "hungry",
+      "and",
+      "I",
+      "only",
+      "crave",
+      "one",
+      "thing",
+      "...",
+      "their",
+      "Pizza",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 22,
+        "to": 23,
+        "polarity": "POS",
+        "term": [
+          "Pizza"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 17,
+        "to": 18,
+        "term": [
+          "crave"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "the turkey burgers are scary !",
+    "words": [
+      "the",
+      "turkey",
+      "burgers",
+      "are",
+      "scary",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 3,
+        "polarity": "NEG",
+        "term": [
+          "turkey",
+          "burgers"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "scary"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The sushi was awful !",
+    "words": [
+      "The",
+      "sushi",
+      "was",
+      "awful",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "sushi"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "awful"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you 'll love it here .",
+    "words": [
+      "If",
+      "you",
+      "like",
+      "your",
+      "music",
+      "blasted",
+      "and",
+      "the",
+      "system",
+      "isnt",
+      "that",
+      "great",
+      "and",
+      "if",
+      "you",
+      "want",
+      "to",
+      "pay",
+      "at",
+      "least",
+      "100",
+      "dollar",
+      "bottle",
+      "minimun",
+      "then",
+      "you",
+      "'ll",
+      "love",
+      "it",
+      "here",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "polarity": "NEG",
+        "term": [
+          "music"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "like"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Great atmoshere and worth every bit .",
+    "words": [
+      "Great",
+      "atmoshere",
+      "and",
+      "worth",
+      "every",
+      "bit",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "atmoshere"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Its location is good and the fact that Hutner College is near and their prices are very reasonable , makes students go back to Suan again and again .",
+    "words": [
+      "Its",
+      "location",
+      "is",
+      "good",
+      "and",
+      "the",
+      "fact",
+      "that",
+      "Hutner",
+      "College",
+      "is",
+      "near",
+      "and",
+      "their",
+      "prices",
+      "are",
+      "very",
+      "reasonable",
+      ",",
+      "makes",
+      "students",
+      "go",
+      "back",
+      "to",
+      "Suan",
+      "again",
+      "and",
+      "again",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "location"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 24,
+        "to": 25,
+        "polarity": "POS",
+        "term": [
+          "Suan"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "good"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 17,
+        "to": 18,
+        "term": [
+          "reasonable"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "noodles with shrimp and chicken and coconut juice is the MUST !",
+    "words": [
+      "noodles",
+      "with",
+      "shrimp",
+      "and",
+      "chicken",
+      "and",
+      "coconut",
+      "juice",
+      "is",
+      "the",
+      "MUST",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "noodles",
+          "with",
+          "shrimp",
+          "and",
+          "chicken",
+          "and",
+          "coconut",
+          "juice"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 10,
+        "to": 11,
+        "term": [
+          "MUST"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "During the course of the past 3 months , the chef and staff changed and it was not for the better .",
+    "words": [
+      "During",
+      "the",
+      "course",
+      "of",
+      "the",
+      "past",
+      "3",
+      "months",
+      ",",
+      "the",
+      "chef",
+      "and",
+      "staff",
+      "changed",
+      "and",
+      "it",
+      "was",
+      "not",
+      "for",
+      "the",
+      "better",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 10,
+        "to": 11,
+        "polarity": "NEG",
+        "term": [
+          "chef"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 13,
+        "to": 14,
+        "term": [
+          "changed"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The setting is casual and romantic .",
+    "words": [
+      "The",
+      "setting",
+      "is",
+      "casual",
+      "and",
+      "romantic",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "setting"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "setting"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "casual"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "romantic"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "if you 're daring , try the balsamic vinegar over icecream , it 's wonderful !",
+    "words": [
+      "if",
+      "you",
+      "'re",
+      "daring",
+      ",",
+      "try",
+      "the",
+      "balsamic",
+      "vinegar",
+      "over",
+      "icecream",
+      ",",
+      "it",
+      "'s",
+      "wonderful",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 11,
+        "polarity": "POS",
+        "term": [
+          "balsamic",
+          "vinegar",
+          "over",
+          "icecream"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 11,
+        "polarity": "POS",
+        "term": [
+          "balsamic",
+          "vinegar",
+          "over",
+          "icecream"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "try"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 14,
+        "to": 15,
+        "term": [
+          "wonderful"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The rest of the dim sum , though pricey by Chinatown standards , is worth it .",
+    "words": [
+      "The",
+      "rest",
+      "of",
+      "the",
+      "dim",
+      "sum",
+      ",",
+      "though",
+      "pricey",
+      "by",
+      "Chinatown",
+      "standards",
+      ",",
+      "is",
+      "worth",
+      "it",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "dim",
+          "sum"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 4,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "dim",
+          "sum"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 9,
+        "term": [
+          "pricey"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 14,
+        "to": 15,
+        "term": [
+          "worth"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal",
+    "words": [
+      "The",
+      "restaurant",
+      "is",
+      "a",
+      "bit",
+      "noisy",
+      "but",
+      "that",
+      "is",
+      "something",
+      "that",
+      "can",
+      "be",
+      "overlooked",
+      "once",
+      "you",
+      "sit",
+      "down",
+      "and",
+      "enjoy",
+      "a",
+      "great",
+      "meal"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEU",
+        "term": [
+          "restaurant"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 22,
+        "to": 23,
+        "polarity": "POS",
+        "term": [
+          "meal"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 22,
+        "to": 23,
+        "polarity": "POS",
+        "term": [
+          "meal"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "noisy"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 19,
+        "to": 20,
+        "term": [
+          "enjoy"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 21,
+        "to": 22,
+        "term": [
+          "great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "this little place has a cute interior decor and affordable city prices .",
+    "words": [
+      "this",
+      "little",
+      "place",
+      "has",
+      "a",
+      "cute",
+      "interior",
+      "decor",
+      "and",
+      "affordable",
+      "city",
+      "prices",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "place"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 6,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "interior",
+          "decor"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "term": [
+          "little"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "cute"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Have eaten at Ginger House several times , and it 's always good .",
+    "words": [
+      "Have",
+      "eaten",
+      "at",
+      "Ginger",
+      "House",
+      "several",
+      "times",
+      ",",
+      "and",
+      "it",
+      "'s",
+      "always",
+      "good",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 5,
+        "polarity": "POS",
+        "term": [
+          "Ginger",
+          "House"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 12,
+        "to": 13,
+        "term": [
+          "good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The fried dumplings are GREAT !",
+    "words": [
+      "The",
+      "fried",
+      "dumplings",
+      "are",
+      "GREAT",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "fried",
+          "dumplings"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "GREAT"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The baked clams octopus we shared as appetizers were the best we 've ever had ! !",
+    "words": [
+      "The",
+      "baked",
+      "clams",
+      "octopus",
+      "we",
+      "shared",
+      "as",
+      "appetizers",
+      "were",
+      "the",
+      "best",
+      "we",
+      "'ve",
+      "ever",
+      "had",
+      "!",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 4,
+        "polarity": "POS",
+        "term": [
+          "baked",
+          "clams",
+          "octopus"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 10,
+        "to": 11,
+        "term": [
+          "best"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .",
+    "words": [
+      "Small",
+      "servings",
+      "for",
+      "main",
+      "entree",
+      ",",
+      "i",
+      "had",
+      "salmon",
+      "(",
+      "wasnt",
+      "impressed",
+      ")",
+      "girlfriend",
+      "had",
+      "chicken",
+      ",",
+      "it",
+      "was",
+      "good",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 5,
+        "polarity": "NEG",
+        "term": [
+          "servings",
+          "for",
+          "main",
+          "entree"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 8,
+        "to": 9,
+        "polarity": "NEG",
+        "term": [
+          "salmon"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 15,
+        "to": 16,
+        "polarity": "POS",
+        "term": [
+          "chicken"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Small"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 10,
+        "to": 12,
+        "term": [
+          "wasnt",
+          "impressed"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 19,
+        "to": 20,
+        "term": [
+          "good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Still , any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house ...",
+    "words": [
+      "Still",
+      ",",
+      "any",
+      "quibbles",
+      "about",
+      "the",
+      "bill",
+      "were",
+      "off-set",
+      "by",
+      "the",
+      "pour-your-own",
+      "measures",
+      "of",
+      "liquers",
+      "which",
+      "were",
+      "courtesey",
+      "of",
+      "the",
+      "house",
+      "..."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 12,
+        "to": 15,
+        "polarity": "POS",
+        "term": [
+          "measures",
+          "of",
+          "liquers"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 12,
+        "to": 15,
+        "polarity": "POS",
+        "term": [
+          "measures",
+          "of",
+          "liquers"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 11,
+        "to": 12,
+        "term": [
+          "pour-your-own"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 17,
+        "to": 18,
+        "term": [
+          "courtesey"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Excellent spot for holiday get togethers with co-workers or friends that you have n't seen in a while .",
+    "words": [
+      "Excellent",
+      "spot",
+      "for",
+      "holiday",
+      "get",
+      "togethers",
+      "with",
+      "co-workers",
+      "or",
+      "friends",
+      "that",
+      "you",
+      "have",
+      "n't",
+      "seen",
+      "in",
+      "a",
+      "while",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "spot"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Excellent"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The shrimp scampi was excellent and the antipasti were plentiful .",
+    "words": [
+      "The",
+      "shrimp",
+      "scampi",
+      "was",
+      "excellent",
+      "and",
+      "the",
+      "antipasti",
+      "were",
+      "plentiful",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "shrimp",
+          "scampi"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "antipasti"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "excellent"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 9,
+        "to": 10,
+        "term": [
+          "plentiful"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Too bad the food was n't of the same heritage .",
+    "words": [
+      "Too",
+      "bad",
+      "the",
+      "food",
+      "was",
+      "n't",
+      "of",
+      "the",
+      "same",
+      "heritage",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "polarity": "NEG",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "term": [
+          "bad"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I also recommend the rice dishes or the different varieties of congee ( rice porridge ) .",
+    "words": [
+      "I",
+      "also",
+      "recommend",
+      "the",
+      "rice",
+      "dishes",
+      "or",
+      "the",
+      "different",
+      "varieties",
+      "of",
+      "congee",
+      "(",
+      "rice",
+      "porridge",
+      ")",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "rice",
+          "dishes"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "recommend"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Warm and friendly in the winter and terrific outdoor seating in the warmer months .",
+    "words": [
+      "Warm",
+      "and",
+      "friendly",
+      "in",
+      "the",
+      "winter",
+      "and",
+      "terrific",
+      "outdoor",
+      "seating",
+      "in",
+      "the",
+      "warmer",
+      "months",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 10,
+        "polarity": "POS",
+        "term": [
+          "outdoor",
+          "seating"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 8,
+        "term": [
+          "terrific"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "service is friendly , and never had a problem walking in and getting a table .",
+    "words": [
+      "service",
+      "is",
+      "friendly",
+      ",",
+      "and",
+      "never",
+      "had",
+      "a",
+      "problem",
+      "walking",
+      "in",
+      "and",
+      "getting",
+      "a",
+      "table",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "friendly"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Ravioli was good ... but I have to say that I found everything a bit overpriced .",
+    "words": [
+      "Ravioli",
+      "was",
+      "good",
+      "...",
+      "but",
+      "I",
+      "have",
+      "to",
+      "say",
+      "that",
+      "I",
+      "found",
+      "everything",
+      "a",
+      "bit",
+      "overpriced",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Ravioli"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Ravioli"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "good"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 15,
+        "to": 16,
+        "term": [
+          "overpriced"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Not enough wines by the glass either .",
+    "words": [
+      "Not",
+      "enough",
+      "wines",
+      "by",
+      "the",
+      "glass",
+      "either",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 6,
+        "polarity": "NEG",
+        "term": [
+          "wines",
+          "by",
+          "the",
+          "glass"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 2,
+        "term": [
+          "Not",
+          "enough"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Service , however , was excellent ... and I liked the setting/atmosphere a lot .",
+    "words": [
+      "Service",
+      ",",
+      "however",
+      ",",
+      "was",
+      "excellent",
+      "...",
+      "and",
+      "I",
+      "liked",
+      "the",
+      "setting/atmosphere",
+      "a",
+      "lot",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Service"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 11,
+        "to": 12,
+        "polarity": "POS",
+        "term": [
+          "setting/atmosphere"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "excellent"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 9,
+        "to": 10,
+        "term": [
+          "liked"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Food was just average ... if they lowered the prices just a bit , it would be a bigger draw .",
+    "words": [
+      "Food",
+      "was",
+      "just",
+      "average",
+      "...",
+      "if",
+      "they",
+      "lowered",
+      "the",
+      "prices",
+      "just",
+      "a",
+      "bit",
+      ",",
+      "it",
+      "would",
+      "be",
+      "a",
+      "bigger",
+      "draw",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "NEG",
+        "term": [
+          "Food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "average"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Faan is sooo good .",
+    "words": [
+      "Faan",
+      "is",
+      "sooo",
+      "good",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Faan"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The mussles were the fishiest things I 've ever tasted , the seabass was bland , the goat cheese salad was missing the goat cheese , the penne w/ chicken had bones in it ... It was disgusting .",
+    "words": [
+      "The",
+      "mussles",
+      "were",
+      "the",
+      "fishiest",
+      "things",
+      "I",
+      "'ve",
+      "ever",
+      "tasted",
+      ",",
+      "the",
+      "seabass",
+      "was",
+      "bland",
+      ",",
+      "the",
+      "goat",
+      "cheese",
+      "salad",
+      "was",
+      "missing",
+      "the",
+      "goat",
+      "cheese",
+      ",",
+      "the",
+      "penne",
+      "w/",
+      "chicken",
+      "had",
+      "bones",
+      "in",
+      "it",
+      "...",
+      "It",
+      "was",
+      "disgusting",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "mussles"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 12,
+        "to": 13,
+        "polarity": "NEG",
+        "term": [
+          "seabass"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 17,
+        "to": 20,
+        "polarity": "NEG",
+        "term": [
+          "goat",
+          "cheese",
+          "salad"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 27,
+        "to": 30,
+        "polarity": "NEG",
+        "term": [
+          "penne",
+          "w/",
+          "chicken"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "fishiest"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 14,
+        "to": 15,
+        "term": [
+          "bland"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 21,
+        "to": 22,
+        "term": [
+          "missing"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 37,
+        "to": 38,
+        "term": [
+          "disgusting"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "My fav was the sassy lassi ...",
+    "words": [
+      "My",
+      "fav",
+      "was",
+      "the",
+      "sassy",
+      "lassi",
+      "..."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "sassy",
+          "lassi"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "term": [
+          "fav"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The portions are HUGE , so it might be good to order three things to split ( rather than one appetizer and entree per person ) for two people .",
+    "words": [
+      "The",
+      "portions",
+      "are",
+      "HUGE",
+      ",",
+      "so",
+      "it",
+      "might",
+      "be",
+      "good",
+      "to",
+      "order",
+      "three",
+      "things",
+      "to",
+      "split",
+      "(",
+      "rather",
+      "than",
+      "one",
+      "appetizer",
+      "and",
+      "entree",
+      "per",
+      "person",
+      ")",
+      "for",
+      "two",
+      "people",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "portions"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "HUGE"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The service is good and the resturant is clean .",
+    "words": [
+      "The",
+      "service",
+      "is",
+      "good",
+      "and",
+      "the",
+      "resturant",
+      "is",
+      "clean",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 6,
+        "to": 7,
+        "polarity": "POS",
+        "term": [
+          "resturant"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "good"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 8,
+        "to": 9,
+        "term": [
+          "clean"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "We recently decided to try this location , and to our delight , they have outdoor seating , perfect since I had my yorkie with me .",
+    "words": [
+      "We",
+      "recently",
+      "decided",
+      "to",
+      "try",
+      "this",
+      "location",
+      ",",
+      "and",
+      "to",
+      "our",
+      "delight",
+      ",",
+      "they",
+      "have",
+      "outdoor",
+      "seating",
+      ",",
+      "perfect",
+      "since",
+      "I",
+      "had",
+      "my",
+      "yorkie",
+      "with",
+      "me",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 15,
+        "to": 17,
+        "polarity": "POS",
+        "term": [
+          "outdoor",
+          "seating"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 18,
+        "to": 19,
+        "term": [
+          "perfect"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Excellent dumplings served amid clean , chic decor .",
+    "words": [
+      "Excellent",
+      "dumplings",
+      "served",
+      "amid",
+      "clean",
+      ",",
+      "chic",
+      "decor",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "dumplings"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "decor"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 7,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "decor"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Excellent"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "clean"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "chic"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The food was delicious but do not come here on a empty stomach .",
+    "words": [
+      "The",
+      "food",
+      "was",
+      "delicious",
+      "but",
+      "do",
+      "not",
+      "come",
+      "here",
+      "on",
+      "a",
+      "empty",
+      "stomach",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "delicious"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Great food and the prices are very reasonable .",
+    "words": [
+      "Great",
+      "food",
+      "and",
+      "the",
+      "prices",
+      "are",
+      "very",
+      "reasonable",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Consistently good Japanese Tapas .",
+    "words": [
+      "Consistently",
+      "good",
+      "Japanese",
+      "Tapas",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 4,
+        "polarity": "POS",
+        "term": [
+          "Japanese",
+          "Tapas"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "term": [
+          "good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Atmosphere is nice and relaxed too ...",
+    "words": [
+      "Atmosphere",
+      "is",
+      "nice",
+      "and",
+      "relaxed",
+      "too",
+      "..."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Atmosphere"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Atmosphere"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "nice"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "relaxed"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The food is okay and the prices here are mediocre .",
+    "words": [
+      "The",
+      "food",
+      "is",
+      "okay",
+      "and",
+      "the",
+      "prices",
+      "here",
+      "are",
+      "mediocre",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEU",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "okay"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "There is no excuse for such lousy service !",
+    "words": [
+      "There",
+      "is",
+      "no",
+      "excuse",
+      "for",
+      "such",
+      "lousy",
+      "service",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 8,
+        "polarity": "NEG",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "lousy"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I went to Areo on a Sunday afternoon with four of my girlfriends , and spent three enjoyable hours there .",
+    "words": [
+      "I",
+      "went",
+      "to",
+      "Areo",
+      "on",
+      "a",
+      "Sunday",
+      "afternoon",
+      "with",
+      "four",
+      "of",
+      "my",
+      "girlfriends",
+      ",",
+      "and",
+      "spent",
+      "three",
+      "enjoyable",
+      "hours",
+      "there",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "polarity": "POS",
+        "term": [
+          "Areo"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 17,
+        "to": 18,
+        "term": [
+          "enjoyable"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The vibe is very relaxed and cozy , service was great and the food was excellent !",
+    "words": [
+      "The",
+      "vibe",
+      "is",
+      "very",
+      "relaxed",
+      "and",
+      "cozy",
+      ",",
+      "service",
+      "was",
+      "great",
+      "and",
+      "the",
+      "food",
+      "was",
+      "excellent",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "vibe"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "vibe"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 8,
+        "to": 9,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 13,
+        "to": 14,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "relaxed"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "cozy"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 10,
+        "to": 11,
+        "term": [
+          "great"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 15,
+        "to": 16,
+        "term": [
+          "excellent"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went .",
+    "words": [
+      "Food",
+      "was",
+      "good",
+      "and",
+      "the",
+      "view",
+      "of",
+      "the",
+      "new",
+      "york",
+      "city",
+      "skiline",
+      "was",
+      "terrific",
+      "even",
+      "on",
+      "a",
+      "foggy",
+      "rainy",
+      "day",
+      "like",
+      "that",
+      "of",
+      "when",
+      "I",
+      "went",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Food"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 5,
+        "to": 12,
+        "polarity": "POS",
+        "term": [
+          "view",
+          "of",
+          "the",
+          "new",
+          "york",
+          "city",
+          "skiline"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "good"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 13,
+        "to": 14,
+        "term": [
+          "terrific"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "We were 4 and got the family size penne a la vodka which was tremendously gigantic portion ... a bucket of food literally .",
+    "words": [
+      "We",
+      "were",
+      "4",
+      "and",
+      "got",
+      "the",
+      "family",
+      "size",
+      "penne",
+      "a",
+      "la",
+      "vodka",
+      "which",
+      "was",
+      "tremendously",
+      "gigantic",
+      "portion",
+      "...",
+      "a",
+      "bucket",
+      "of",
+      "food",
+      "literally",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 12,
+        "polarity": "POS",
+        "term": [
+          "penne",
+          "a",
+          "la",
+          "vodka"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 15,
+        "to": 16,
+        "term": [
+          "gigantic"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I found it on a cold night , the perfect spot to warm up .",
+    "words": [
+      "I",
+      "found",
+      "it",
+      "on",
+      "a",
+      "cold",
+      "night",
+      ",",
+      "the",
+      "perfect",
+      "spot",
+      "to",
+      "warm",
+      "up",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 10,
+        "to": 11,
+        "polarity": "POS",
+        "term": [
+          "spot"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 9,
+        "to": 10,
+        "term": [
+          "perfect"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I recieved prompt service with a smile .",
+    "words": [
+      "I",
+      "recieved",
+      "prompt",
+      "service",
+      "with",
+      "a",
+      "smile",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "prompt"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I 've also been amazed at all the new additions in the past few years : A new Jazz Bar , the most fantastic Dining Garden , the Best Thin Crust Pizzas , and now a Lasagna Menu which is to die for ( these are not your average lasagnas ) !",
+    "words": [
+      "I",
+      "'ve",
+      "also",
+      "been",
+      "amazed",
+      "at",
+      "all",
+      "the",
+      "new",
+      "additions",
+      "in",
+      "the",
+      "past",
+      "few",
+      "years",
+      ":",
+      "A",
+      "new",
+      "Jazz",
+      "Bar",
+      ",",
+      "the",
+      "most",
+      "fantastic",
+      "Dining",
+      "Garden",
+      ",",
+      "the",
+      "Best",
+      "Thin",
+      "Crust",
+      "Pizzas",
+      ",",
+      "and",
+      "now",
+      "a",
+      "Lasagna",
+      "Menu",
+      "which",
+      "is",
+      "to",
+      "die",
+      "for",
+      "(",
+      "these",
+      "are",
+      "not",
+      "your",
+      "average",
+      "lasagnas",
+      ")",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 18,
+        "to": 20,
+        "polarity": "POS",
+        "term": [
+          "Jazz",
+          "Bar"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 24,
+        "to": 26,
+        "polarity": "POS",
+        "term": [
+          "Dining",
+          "Garden"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 29,
+        "to": 32,
+        "polarity": "POS",
+        "term": [
+          "Thin",
+          "Crust",
+          "Pizzas"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 36,
+        "to": 38,
+        "polarity": "POS",
+        "term": [
+          "Lasagna",
+          "Menu"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 17,
+        "to": 18,
+        "term": [
+          "new"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 23,
+        "to": 24,
+        "term": [
+          "fantastic"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 28,
+        "to": 29,
+        "term": [
+          "Best"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 41,
+        "to": 43,
+        "term": [
+          "die",
+          "for"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "We could have made a meal of the yummy dumplings from the dumpling menu .",
+    "words": [
+      "We",
+      "could",
+      "have",
+      "made",
+      "a",
+      "meal",
+      "of",
+      "the",
+      "yummy",
+      "dumplings",
+      "from",
+      "the",
+      "dumpling",
+      "menu",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 9,
+        "to": 10,
+        "polarity": "POS",
+        "term": [
+          "dumplings"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 9,
+        "term": [
+          "yummy"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "It was totally overpriced - fish and chips was about $ 15 ... .",
+    "words": [
+      "It",
+      "was",
+      "totally",
+      "overpriced",
+      "-",
+      "fish",
+      "and",
+      "chips",
+      "was",
+      "about",
+      "$",
+      "15",
+      "...",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 8,
+        "polarity": "NEG",
+        "term": [
+          "fish",
+          "and",
+          "chips"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "overpriced"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Tasty Dog !",
+    "words": [
+      "Tasty",
+      "Dog",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "Dog"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Tasty"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "We had half/half pizza , mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza !",
+    "words": [
+      "We",
+      "had",
+      "half/half",
+      "pizza",
+      ",",
+      "mine",
+      "was",
+      "eggplant",
+      "and",
+      "my",
+      "friend",
+      "had",
+      "the",
+      "buffalo",
+      "and",
+      "it",
+      "was",
+      "sooo",
+      "huge",
+      "for",
+      "a",
+      "small",
+      "size",
+      "pizza",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 4,
+        "polarity": "POS",
+        "term": [
+          "half/half",
+          "pizza"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 18,
+        "to": 19,
+        "term": [
+          "huge"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Delivery can be spot on or lacking depending on the weather and the day of the week .",
+    "words": [
+      "Delivery",
+      "can",
+      "be",
+      "spot",
+      "on",
+      "or",
+      "lacking",
+      "depending",
+      "on",
+      "the",
+      "weather",
+      "and",
+      "the",
+      "day",
+      "of",
+      "the",
+      "week",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "NEG",
+        "term": [
+          "Delivery"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "lacking"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Delivery guy sometimes get upset if you do n't tip more than 10 % .",
+    "words": [
+      "Delivery",
+      "guy",
+      "sometimes",
+      "get",
+      "upset",
+      "if",
+      "you",
+      "do",
+      "n't",
+      "tip",
+      "more",
+      "than",
+      "10",
+      "%",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "Delivery",
+          "guy"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "upset"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Excellent sashimi , and the millennium roll is beyond delicious .",
+    "words": [
+      "Excellent",
+      "sashimi",
+      ",",
+      "and",
+      "the",
+      "millennium",
+      "roll",
+      "is",
+      "beyond",
+      "delicious",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "sashimi"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 5,
+        "to": 7,
+        "polarity": "POS",
+        "term": [
+          "millennium",
+          "roll"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Excellent"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 9,
+        "to": 10,
+        "term": [
+          "delicious"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The place is a bit hidden away , but once you get there , it 's all worth it .",
+    "words": [
+      "The",
+      "place",
+      "is",
+      "a",
+      "bit",
+      "hidden",
+      "away",
+      ",",
+      "but",
+      "once",
+      "you",
+      "get",
+      "there",
+      ",",
+      "it",
+      "'s",
+      "all",
+      "worth",
+      "it",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "place"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "place"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 7,
+        "term": [
+          "hidden",
+          "away"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 17,
+        "to": 18,
+        "term": [
+          "worth"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Excellent food for great prices",
+    "words": [
+      "Excellent",
+      "food",
+      "for",
+      "great",
+      "prices"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Excellent"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The wait staff is very courteous and accomodating .",
+    "words": [
+      "The",
+      "wait",
+      "staff",
+      "is",
+      "very",
+      "courteous",
+      "and",
+      "accomodating",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "wait",
+          "staff"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "wait",
+          "staff"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "courteous"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 8,
+        "term": [
+          "accomodating"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "i love their chicken pasta cant remember the name but is sooo good",
+    "words": [
+      "i",
+      "love",
+      "their",
+      "chicken",
+      "pasta",
+      "cant",
+      "remember",
+      "the",
+      "name",
+      "but",
+      "is",
+      "sooo",
+      "good"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 5,
+        "polarity": "POS",
+        "term": [
+          "chicken",
+          "pasta"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "term": [
+          "love"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I think the pizza is so overrated and was under cooked .",
+    "words": [
+      "I",
+      "think",
+      "the",
+      "pizza",
+      "is",
+      "so",
+      "overrated",
+      "and",
+      "was",
+      "under",
+      "cooked",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "polarity": "NEG",
+        "term": [
+          "pizza"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 3,
+        "to": 4,
+        "polarity": "NEG",
+        "term": [
+          "pizza"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "overrated"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 9,
+        "to": 11,
+        "term": [
+          "under",
+          "cooked"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The service was quick and friendly .",
+    "words": [
+      "The",
+      "service",
+      "was",
+      "quick",
+      "and",
+      "friendly",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "quick"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "friendly"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I ordered the vitello alla marsala and I was pretty impressed .",
+    "words": [
+      "I",
+      "ordered",
+      "the",
+      "vitello",
+      "alla",
+      "marsala",
+      "and",
+      "I",
+      "was",
+      "pretty",
+      "impressed",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "vitello",
+          "alla",
+          "marsala"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 10,
+        "to": 11,
+        "term": [
+          "impressed"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Red Dragon Roll - my favorite thing to eat , of any food group - hands down",
+    "words": [
+      "Red",
+      "Dragon",
+      "Roll",
+      "-",
+      "my",
+      "favorite",
+      "thing",
+      "to",
+      "eat",
+      ",",
+      "of",
+      "any",
+      "food",
+      "group",
+      "-",
+      "hands",
+      "down"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "Red",
+          "Dragon",
+          "Roll"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "favorite"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "In the summer months , the back garden area is really nice .",
+    "words": [
+      "In",
+      "the",
+      "summer",
+      "months",
+      ",",
+      "the",
+      "back",
+      "garden",
+      "area",
+      "is",
+      "really",
+      "nice",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 6,
+        "to": 9,
+        "polarity": "POS",
+        "term": [
+          "back",
+          "garden",
+          "area"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 11,
+        "to": 12,
+        "term": [
+          "nice"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Great Indian Food !",
+    "words": [
+      "Great",
+      "Indian",
+      "Food",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "Indian",
+          "Food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "This is one of my favorite spot , very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .",
+    "words": [
+      "This",
+      "is",
+      "one",
+      "of",
+      "my",
+      "favorite",
+      "spot",
+      ",",
+      "very",
+      "relaxing",
+      "the",
+      "food",
+      "is",
+      "great",
+      "all",
+      "the",
+      "times",
+      ",",
+      "celebrated",
+      "my",
+      "engagement",
+      "and",
+      "my",
+      "wedding",
+      "here",
+      ",",
+      "it",
+      "was",
+      "very",
+      "well",
+      "organized",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 11,
+        "to": 12,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 13,
+        "to": 14,
+        "term": [
+          "great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I highly recommend this beautiful place .",
+    "words": [
+      "I",
+      "highly",
+      "recommend",
+      "this",
+      "beautiful",
+      "place",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "place"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 5,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "place"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "recommend"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "beautiful"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Nice view of river and NYC .",
+    "words": [
+      "Nice",
+      "view",
+      "of",
+      "river",
+      "and",
+      "NYC",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "view",
+          "of",
+          "river",
+          "and",
+          "NYC"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Nice"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "A beautifully designed dreamy Egyptian restaurant that gets sceney at night .",
+    "words": [
+      "A",
+      "beautifully",
+      "designed",
+      "dreamy",
+      "Egyptian",
+      "restaurant",
+      "that",
+      "gets",
+      "sceney",
+      "at",
+      "night",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "Egyptian",
+          "restaurant"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "dreamy"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The drinks are great , especially when made by Raymond .",
+    "words": [
+      "The",
+      "drinks",
+      "are",
+      "great",
+      ",",
+      "especially",
+      "when",
+      "made",
+      "by",
+      "Raymond",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "drinks"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "quacamole at pacifico is yummy , as are the wings with chimmichuri .",
+    "words": [
+      "quacamole",
+      "at",
+      "pacifico",
+      "is",
+      "yummy",
+      ",",
+      "as",
+      "are",
+      "the",
+      "wings",
+      "with",
+      "chimmichuri",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "quacamole"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "yummy"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Also , I personally was n't a fan of the portobello and asparagus mole .",
+    "words": [
+      "Also",
+      ",",
+      "I",
+      "personally",
+      "was",
+      "n't",
+      "a",
+      "fan",
+      "of",
+      "the",
+      "portobello",
+      "and",
+      "asparagus",
+      "mole",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 10,
+        "to": 14,
+        "polarity": "NEG",
+        "term": [
+          "portobello",
+          "and",
+          "asparagus",
+          "mole"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 8,
+        "term": [
+          "fan"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "This small Astoria souvlaki spot makes what many consider the best gyros in New York .",
+    "words": [
+      "This",
+      "small",
+      "Astoria",
+      "souvlaki",
+      "spot",
+      "makes",
+      "what",
+      "many",
+      "consider",
+      "the",
+      "best",
+      "gyros",
+      "in",
+      "New",
+      "York",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 11,
+        "to": 12,
+        "polarity": "POS",
+        "term": [
+          "gyros"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 10,
+        "to": 11,
+        "term": [
+          "best"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "What really makes it shine is the food , which is aggressively seasoned with Cyrpriot spices , and all made in-house ( even the gyro meat and sausages ) , and made of much higher quality ingredients that might otherwise be expected .",
+    "words": [
+      "What",
+      "really",
+      "makes",
+      "it",
+      "shine",
+      "is",
+      "the",
+      "food",
+      ",",
+      "which",
+      "is",
+      "aggressively",
+      "seasoned",
+      "with",
+      "Cyrpriot",
+      "spices",
+      ",",
+      "and",
+      "all",
+      "made",
+      "in-house",
+      "(",
+      "even",
+      "the",
+      "gyro",
+      "meat",
+      "and",
+      "sausages",
+      ")",
+      ",",
+      "and",
+      "made",
+      "of",
+      "much",
+      "higher",
+      "quality",
+      "ingredients",
+      "that",
+      "might",
+      "otherwise",
+      "be",
+      "expected",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 24,
+        "to": 26,
+        "polarity": "POS",
+        "term": [
+          "gyro",
+          "meat"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 36,
+        "to": 37,
+        "polarity": "POS",
+        "term": [
+          "ingredients"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "shine"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 20,
+        "to": 21,
+        "term": [
+          "in-house"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 34,
+        "to": 36,
+        "term": [
+          "higher",
+          "quality"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Great food , amazing service , this place is a class act .",
+    "words": [
+      "Great",
+      "food",
+      ",",
+      "amazing",
+      "service",
+      ",",
+      "this",
+      "place",
+      "is",
+      "a",
+      "class",
+      "act",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 4,
+        "to": 5,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 7,
+        "to": 8,
+        "polarity": "POS",
+        "term": [
+          "place"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Great"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "amazing"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 10,
+        "to": 12,
+        "term": [
+          "class",
+          "act"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Service ok but unfriendly , filthy bathroom .",
+    "words": [
+      "Service",
+      "ok",
+      "but",
+      "unfriendly",
+      ",",
+      "filthy",
+      "bathroom",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "NEG",
+        "term": [
+          "Service"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 0,
+        "to": 1,
+        "polarity": "NEG",
+        "term": [
+          "Service"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 6,
+        "to": 7,
+        "polarity": "NEG",
+        "term": [
+          "bathroom"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "term": [
+          "ok"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "unfriendly"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "filthy"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The bread we received was horrible - rock hard and cold - and the `` free '' appetizer of olives was disappointing .",
+    "words": [
+      "The",
+      "bread",
+      "we",
+      "received",
+      "was",
+      "horrible",
+      "-",
+      "rock",
+      "hard",
+      "and",
+      "cold",
+      "-",
+      "and",
+      "the",
+      "``",
+      "free",
+      "''",
+      "appetizer",
+      "of",
+      "olives",
+      "was",
+      "disappointing",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "bread"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "bread"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "bread"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 17,
+        "to": 20,
+        "polarity": "NEG",
+        "term": [
+          "appetizer",
+          "of",
+          "olives"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "horrible"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 9,
+        "term": [
+          "rock",
+          "hard"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 10,
+        "to": 11,
+        "term": [
+          "cold"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 21,
+        "to": 22,
+        "term": [
+          "disappointing"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The service was extremely fast and attentive ( thanks to the service button on your table ) but I barely understood 1 word when the waiter took our order .",
+    "words": [
+      "The",
+      "service",
+      "was",
+      "extremely",
+      "fast",
+      "and",
+      "attentive",
+      "(",
+      "thanks",
+      "to",
+      "the",
+      "service",
+      "button",
+      "on",
+      "your",
+      "table",
+      ")",
+      "but",
+      "I",
+      "barely",
+      "understood",
+      "1",
+      "word",
+      "when",
+      "the",
+      "waiter",
+      "took",
+      "our",
+      "order",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "service"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 11,
+        "to": 13,
+        "polarity": "POS",
+        "term": [
+          "service",
+          "button"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 25,
+        "to": 26,
+        "polarity": "NEG",
+        "term": [
+          "waiter"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "fast"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "attentive"
+        ]
+      },
+      {
+        "index": 2,
+        "from": 8,
+        "to": 10,
+        "term": [
+          "thanks",
+          "to"
+        ]
+      },
+      {
+        "index": 3,
+        "from": 19,
+        "to": 21,
+        "term": [
+          "barely",
+          "understood"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Over all the looks of the place exceeds the actual meals .",
+    "words": [
+      "Over",
+      "all",
+      "the",
+      "looks",
+      "of",
+      "the",
+      "place",
+      "exceeds",
+      "the",
+      "actual",
+      "meals",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "polarity": "POS",
+        "term": [
+          "looks"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 8,
+        "term": [
+          "exceeds"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I go out to eat and like my courses , servers are patient and never rush courses or force another drink .",
+    "words": [
+      "I",
+      "go",
+      "out",
+      "to",
+      "eat",
+      "and",
+      "like",
+      "my",
+      "courses",
+      ",",
+      "servers",
+      "are",
+      "patient",
+      "and",
+      "never",
+      "rush",
+      "courses",
+      "or",
+      "force",
+      "another",
+      "drink",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 10,
+        "to": 11,
+        "polarity": "POS",
+        "term": [
+          "servers"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 12,
+        "to": 13,
+        "term": [
+          "patient"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Food took some time to prepare , all worth waiting for .",
+    "words": [
+      "Food",
+      "took",
+      "some",
+      "time",
+      "to",
+      "prepare",
+      ",",
+      "all",
+      "worth",
+      "waiting",
+      "for",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 9,
+        "term": [
+          "worth"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I never write on these sites but this restaurant is def worth commending !",
+    "words": [
+      "I",
+      "never",
+      "write",
+      "on",
+      "these",
+      "sites",
+      "but",
+      "this",
+      "restaurant",
+      "is",
+      "def",
+      "worth",
+      "commending",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 9,
+        "polarity": "POS",
+        "term": [
+          "restaurant"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 11,
+        "to": 12,
+        "term": [
+          "worth"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Yamato is an excellent place to go if youre not into sashimi , or if you have friends who doesnt like sushi much .",
+    "words": [
+      "Yamato",
+      "is",
+      "an",
+      "excellent",
+      "place",
+      "to",
+      "go",
+      "if",
+      "youre",
+      "not",
+      "into",
+      "sashimi",
+      ",",
+      "or",
+      "if",
+      "you",
+      "have",
+      "friends",
+      "who",
+      "doesnt",
+      "like",
+      "sushi",
+      "much",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Yamato"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "excellent"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "One special roll and one regular roll is enough to fill you up , but save room for dessert !",
+    "words": [
+      "One",
+      "special",
+      "roll",
+      "and",
+      "one",
+      "regular",
+      "roll",
+      "is",
+      "enough",
+      "to",
+      "fill",
+      "you",
+      "up",
+      ",",
+      "but",
+      "save",
+      "room",
+      "for",
+      "dessert",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "special",
+          "roll"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 18,
+        "to": 19,
+        "polarity": "POS",
+        "term": [
+          "dessert"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 9,
+        "term": [
+          "enough"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 15,
+        "to": 17,
+        "term": [
+          "save",
+          "room"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Amazing food .",
+    "words": [
+      "Amazing",
+      "food",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Amazing"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Indo Chinese food , pretty good ...",
+    "words": [
+      "Indo",
+      "Chinese",
+      "food",
+      ",",
+      "pretty",
+      "good",
+      "..."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "Indo",
+          "Chinese",
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 5,
+        "to": 6,
+        "term": [
+          "good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "My mom originally introduced me to this place , but even she ( being Indian ) feels the food can be somewhat over the top spicy and far too oily .",
+    "words": [
+      "My",
+      "mom",
+      "originally",
+      "introduced",
+      "me",
+      "to",
+      "this",
+      "place",
+      ",",
+      "but",
+      "even",
+      "she",
+      "(",
+      "being",
+      "Indian",
+      ")",
+      "feels",
+      "the",
+      "food",
+      "can",
+      "be",
+      "somewhat",
+      "over",
+      "the",
+      "top",
+      "spicy",
+      "and",
+      "far",
+      "too",
+      "oily",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 18,
+        "to": 19,
+        "polarity": "NEG",
+        "term": [
+          "food"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 18,
+        "to": 19,
+        "polarity": "NEG",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 25,
+        "to": 26,
+        "term": [
+          "spicy"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 29,
+        "to": 30,
+        "term": [
+          "oily"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "great hot dogs .",
+    "words": [
+      "great",
+      "hot",
+      "dogs",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "hot",
+          "dogs"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time .",
+    "words": [
+      "I",
+      "literally",
+      "just",
+      "got",
+      "back",
+      "home",
+      "after",
+      "visiting",
+      "Casa",
+      "La",
+      "Femme",
+      "and",
+      "was",
+      "so",
+      "offended",
+      "by",
+      "my",
+      "visit",
+      "felt",
+      "it",
+      "necessary",
+      "to",
+      "try",
+      "and",
+      "warn",
+      "other",
+      "diners",
+      "who",
+      "value",
+      "their",
+      "money",
+      "and",
+      "time",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 11,
+        "polarity": "NEG",
+        "term": [
+          "Casa",
+          "La",
+          "Femme"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 14,
+        "to": 15,
+        "term": [
+          "offended"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible !",
+    "words": [
+      "If",
+      "it",
+      "seemed",
+      "possible",
+      "to",
+      "do",
+      "so",
+      "while",
+      "there",
+      "I",
+      "would",
+      "have",
+      "fought",
+      "my",
+      "bill",
+      "since",
+      "my",
+      "dinner",
+      "portion",
+      "of",
+      "my",
+      "meal",
+      "was",
+      "inedible",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 21,
+        "to": 22,
+        "polarity": "NEG",
+        "term": [
+          "meal"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 23,
+        "to": 24,
+        "term": [
+          "inedible"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "There was no tap beer that evening , which was a disappointment .",
+    "words": [
+      "There",
+      "was",
+      "no",
+      "tap",
+      "beer",
+      "that",
+      "evening",
+      ",",
+      "which",
+      "was",
+      "a",
+      "disappointment",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "polarity": "NEG",
+        "term": [
+          "beer"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 11,
+        "to": 12,
+        "term": [
+          "disappointment"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Service not the friendliest to our `` large party '' !",
+    "words": [
+      "Service",
+      "not",
+      "the",
+      "friendliest",
+      "to",
+      "our",
+      "``",
+      "large",
+      "party",
+      "''",
+      "!"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "NEG",
+        "term": [
+          "Service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 4,
+        "term": [
+          "not",
+          "the",
+          "friendliest"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Bukhara is on my top 5 Indian places in NYC",
+    "words": [
+      "Bukhara",
+      "is",
+      "on",
+      "my",
+      "top",
+      "5",
+      "Indian",
+      "places",
+      "in",
+      "NYC"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "polarity": "POS",
+        "term": [
+          "Bukhara"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "top"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "However , once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair , ( sometimes you have to settle when it 's your only option ) , I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting , slimy , clearly bad piece of fish skin .",
+    "words": [
+      "However",
+      ",",
+      "once",
+      "I",
+      "received",
+      "my",
+      "predictably",
+      "mediocre",
+      "order",
+      "of",
+      "what",
+      "Dokebi",
+      "thinks",
+      "passes",
+      "as",
+      "Korean",
+      "fair",
+      ",",
+      "(",
+      "sometimes",
+      "you",
+      "have",
+      "to",
+      "settle",
+      "when",
+      "it",
+      "'s",
+      "your",
+      "only",
+      "option",
+      ")",
+      ",",
+      "I",
+      "got",
+      "through",
+      "about",
+      "half",
+      "my",
+      "kimchee",
+      "before",
+      "I",
+      "found",
+      "a",
+      "piece",
+      "of",
+      "random",
+      "lettuce",
+      "accompanied",
+      "by",
+      "a",
+      "far",
+      "more",
+      "disgusting",
+      ",",
+      "slimy",
+      ",",
+      "clearly",
+      "bad",
+      "piece",
+      "of",
+      "fish",
+      "skin",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 15,
+        "to": 17,
+        "polarity": "NEG",
+        "term": [
+          "Korean",
+          "fair"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 38,
+        "to": 39,
+        "polarity": "NEG",
+        "term": [
+          "kimchee"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 8,
+        "term": [
+          "mediocre"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 52,
+        "to": 53,
+        "term": [
+          "disgusting"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I completely recommend Casa La Femme for any special occasion and to REALLY impress your date .",
+    "words": [
+      "I",
+      "completely",
+      "recommend",
+      "Casa",
+      "La",
+      "Femme",
+      "for",
+      "any",
+      "special",
+      "occasion",
+      "and",
+      "to",
+      "REALLY",
+      "impress",
+      "your",
+      "date",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "Casa",
+          "La",
+          "Femme"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "term": [
+          "recommend"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Love this place , every time we are in the city this is one of the places we always go .",
+    "words": [
+      "Love",
+      "this",
+      "place",
+      ",",
+      "every",
+      "time",
+      "we",
+      "are",
+      "in",
+      "the",
+      "city",
+      "this",
+      "is",
+      "one",
+      "of",
+      "the",
+      "places",
+      "we",
+      "always",
+      "go",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "place"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Love"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "A quintessential slice of NYC pizza .",
+    "words": [
+      "A",
+      "quintessential",
+      "slice",
+      "of",
+      "NYC",
+      "pizza",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 6,
+        "polarity": "NEU",
+        "term": [
+          "slice",
+          "of",
+          "NYC",
+          "pizza"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "term": [
+          "quintessential"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "If you \u2019 re planning to come here , make sure that your date is someone whom you really like since you \u2019 ll be ushered to private booths where there will be no people or food watching ( choose the ones on the ground level that have glass ceilings so you may see the stars in the sky ! ) .",
+    "words": [
+      "If",
+      "you",
+      "\u2019",
+      "re",
+      "planning",
+      "to",
+      "come",
+      "here",
+      ",",
+      "make",
+      "sure",
+      "that",
+      "your",
+      "date",
+      "is",
+      "someone",
+      "whom",
+      "you",
+      "really",
+      "like",
+      "since",
+      "you",
+      "\u2019",
+      "ll",
+      "be",
+      "ushered",
+      "to",
+      "private",
+      "booths",
+      "where",
+      "there",
+      "will",
+      "be",
+      "no",
+      "people",
+      "or",
+      "food",
+      "watching",
+      "(",
+      "choose",
+      "the",
+      "ones",
+      "on",
+      "the",
+      "ground",
+      "level",
+      "that",
+      "have",
+      "glass",
+      "ceilings",
+      "so",
+      "you",
+      "may",
+      "see",
+      "the",
+      "stars",
+      "in",
+      "the",
+      "sky",
+      "!",
+      ")",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 27,
+        "to": 29,
+        "polarity": "POS",
+        "term": [
+          "private",
+          "booths"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 25,
+        "to": 26,
+        "term": [
+          "ushered"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I picked the Grilled Black Cod as my entree , which I absolutely devoured while someone commented that the Grilled Salmon dish was better .",
+    "words": [
+      "I",
+      "picked",
+      "the",
+      "Grilled",
+      "Black",
+      "Cod",
+      "as",
+      "my",
+      "entree",
+      ",",
+      "which",
+      "I",
+      "absolutely",
+      "devoured",
+      "while",
+      "someone",
+      "commented",
+      "that",
+      "the",
+      "Grilled",
+      "Salmon",
+      "dish",
+      "was",
+      "better",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 6,
+        "polarity": "POS",
+        "term": [
+          "Grilled",
+          "Black",
+          "Cod"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 19,
+        "to": 22,
+        "polarity": "POS",
+        "term": [
+          "Grilled",
+          "Salmon",
+          "dish"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 13,
+        "to": 14,
+        "term": [
+          "devoured"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 23,
+        "to": 24,
+        "term": [
+          "better"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Maybe it was the great company ( I had friends visiting from Philly \u2013 yes , it was not a date this time ) or the super reasonable price point , but I just can \u2019 t say enough good things about this brasserie .",
+    "words": [
+      "Maybe",
+      "it",
+      "was",
+      "the",
+      "great",
+      "company",
+      "(",
+      "I",
+      "had",
+      "friends",
+      "visiting",
+      "from",
+      "Philly",
+      "\u2013",
+      "yes",
+      ",",
+      "it",
+      "was",
+      "not",
+      "a",
+      "date",
+      "this",
+      "time",
+      ")",
+      "or",
+      "the",
+      "super",
+      "reasonable",
+      "price",
+      "point",
+      ",",
+      "but",
+      "I",
+      "just",
+      "can",
+      "\u2019",
+      "t",
+      "say",
+      "enough",
+      "good",
+      "things",
+      "about",
+      "this",
+      "brasserie",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 43,
+        "to": 44,
+        "polarity": "POS",
+        "term": [
+          "brasserie"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 39,
+        "to": 40,
+        "term": [
+          "good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The service leaves much to be desired , from feeling like you are rushed the place your order , to being ignored the rest of the night .",
+    "words": [
+      "The",
+      "service",
+      "leaves",
+      "much",
+      "to",
+      "be",
+      "desired",
+      ",",
+      "from",
+      "feeling",
+      "like",
+      "you",
+      "are",
+      "rushed",
+      "the",
+      "place",
+      "your",
+      "order",
+      ",",
+      "to",
+      "being",
+      "ignored",
+      "the",
+      "rest",
+      "of",
+      "the",
+      "night",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "service"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 7,
+        "term": [
+          "leaves",
+          "much",
+          "to",
+          "be",
+          "desired"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos .",
+    "words": [
+      "Dokebi",
+      "gives",
+      "Williamsburg",
+      "the",
+      "right",
+      "one-two",
+      "punch",
+      "of",
+      "classic",
+      "Korean",
+      "food",
+      "and",
+      "fusion",
+      "twists",
+      "like",
+      "pork",
+      "belly",
+      "tacos",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 9,
+        "to": 11,
+        "polarity": "POS",
+        "term": [
+          "Korean",
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 9,
+        "term": [
+          "classic"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "This place is not inviting and the food is totally weird .",
+    "words": [
+      "This",
+      "place",
+      "is",
+      "not",
+      "inviting",
+      "and",
+      "the",
+      "food",
+      "is",
+      "totally",
+      "weird",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "place"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 8,
+        "polarity": "NEG",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 5,
+        "term": [
+          "not",
+          "inviting"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 10,
+        "to": 11,
+        "term": [
+          "weird"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Good Food",
+    "words": [
+      "Good",
+      "Food"
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "POS",
+        "term": [
+          "Food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 1,
+        "term": [
+          "Good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Our waitress was n't mean , but not especially warm or attentive either .",
+    "words": [
+      "Our",
+      "waitress",
+      "was",
+      "n't",
+      "mean",
+      ",",
+      "but",
+      "not",
+      "especially",
+      "warm",
+      "or",
+      "attentive",
+      "either",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEU",
+        "term": [
+          "waitress"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEU",
+        "term": [
+          "waitress"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 5,
+        "term": [
+          "was",
+          "n't",
+          "mean"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 12,
+        "term": [
+          "not",
+          "especially",
+          "warm",
+          "or",
+          "attentive"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention .",
+    "words": [
+      "The",
+      "servers",
+      "at",
+      "Flatbush",
+      "Farm",
+      "appear",
+      "to",
+      "have",
+      "perfected",
+      "that",
+      "ghastly",
+      "technique",
+      "of",
+      "making",
+      "you",
+      "feel",
+      "guilty",
+      "and",
+      "ashamed",
+      "for",
+      "deigning",
+      "to",
+      "attract",
+      "their",
+      "attention",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "servers"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 9,
+        "term": [
+          "perfected"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Overall the food quality was pretty good , though I hear the salmon is much better when it has n't sat cooling in front of the guest .",
+    "words": [
+      "Overall",
+      "the",
+      "food",
+      "quality",
+      "was",
+      "pretty",
+      "good",
+      ",",
+      "though",
+      "I",
+      "hear",
+      "the",
+      "salmon",
+      "is",
+      "much",
+      "better",
+      "when",
+      "it",
+      "has",
+      "n't",
+      "sat",
+      "cooling",
+      "in",
+      "front",
+      "of",
+      "the",
+      "guest",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 2,
+        "to": 3,
+        "polarity": "POS",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "Everything was going good until we got our meals .",
+    "words": [
+      "Everything",
+      "was",
+      "going",
+      "good",
+      "until",
+      "we",
+      "got",
+      "our",
+      "meals",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 8,
+        "to": 9,
+        "polarity": "NEG",
+        "term": [
+          "meals"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "THIS STAFF SHOULD BE FIRED .",
+    "words": [
+      "THIS",
+      "STAFF",
+      "SHOULD",
+      "BE",
+      "FIRED",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "STAFF"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "FIRED"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "it was really good pizza .",
+    "words": [
+      "it",
+      "was",
+      "really",
+      "good",
+      "pizza",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "polarity": "POS",
+        "term": [
+          "pizza"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "good"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "I had the Lamb special which was perfect .",
+    "words": [
+      "I",
+      "had",
+      "the",
+      "Lamb",
+      "special",
+      "which",
+      "was",
+      "perfect",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 5,
+        "polarity": "POS",
+        "term": [
+          "Lamb",
+          "special"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 7,
+        "to": 8,
+        "term": [
+          "perfect"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The Four Seasons restaurant is a great experience .",
+    "words": [
+      "The",
+      "Four",
+      "Seasons",
+      "restaurant",
+      "is",
+      "a",
+      "great",
+      "experience",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 0,
+        "to": 4,
+        "polarity": "POS",
+        "term": [
+          "The",
+          "Four",
+          "Seasons",
+          "restaurant"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 6,
+        "to": 7,
+        "term": [
+          "great"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The food is very good , but not outstanding .",
+    "words": [
+      "The",
+      "food",
+      "is",
+      "very",
+      "good",
+      ",",
+      "but",
+      "not",
+      "outstanding",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEU",
+        "term": [
+          "food"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEU",
+        "term": [
+          "food"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 4,
+        "to": 5,
+        "term": [
+          "good"
+        ]
+      },
+      {
+        "index": 1,
+        "from": 7,
+        "to": 9,
+        "term": [
+          "not",
+          "outstanding"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The pasta was well cooked , did n't have enough sauce though or flavor .",
+    "words": [
+      "The",
+      "pasta",
+      "was",
+      "well",
+      "cooked",
+      ",",
+      "did",
+      "n't",
+      "have",
+      "enough",
+      "sauce",
+      "though",
+      "or",
+      "flavor",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "pasta"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 5,
+        "term": [
+          "well",
+          "cooked"
+        ]
+      }
+    ]
+  },
+  {
+    "raw_words": "The hostess was rude and I got a distinct feeling that they did not want to serve us .",
+    "words": [
+      "The",
+      "hostess",
+      "was",
+      "rude",
+      "and",
+      "I",
+      "got",
+      "a",
+      "distinct",
+      "feeling",
+      "that",
+      "they",
+      "did",
+      "not",
+      "want",
+      "to",
+      "serve",
+      "us",
+      "."
+    ],
+    "task": "AEOESC",
+    "aspects": [
+      {
+        "index": 0,
+        "from": 1,
+        "to": 2,
+        "polarity": "NEG",
+        "term": [
+          "hostess"
+        ]
+      }
+    ],
+    "opinions": [
+      {
+        "index": 0,
+        "from": 3,
+        "to": 4,
+        "term": [
+          "rude"
+        ]
+      }
+    ]
+  }
+]
